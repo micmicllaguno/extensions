@@ -3,7 +3,7 @@
   "version": "1.7.1",
   "platform": "1.7.*",
   "title": "About",
-  "description": "Show info about your app or your business",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae rhoncus nisi. Suspendisse purus leo, hendrerit et mollis non, dapibus nec sem. Donec urna tortor, elementum a blandit vitae, malesuada a tellus. In rhoncus velit nunc, at volutpat odio hendrerit in. Pellentesque sodales, tellus sed condimentum rhoncus, turpis nisl aliquet turpis, a condimentum quam risus id nisi. Mauris rhoncus ex sed lectus molestie ultricies. Phasellus quis hendrerit libero. Nulla accumsan commodo ligula vel eleifend.",
   "icon": "server/assets/add-about-image.png",
   "categories": [
     "content"
